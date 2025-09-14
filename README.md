@@ -4,7 +4,7 @@
 您可以随时提交您的改进版本进main分支，欢迎共创，共同打造智能化学术申请！
 
 ## 更新日志
-- `2025.9.14` 【腾讯文档】Auto-Tutor教程：https://docs.qq.com/doc/DQU1oQ1phVmZxZEFZ
+- `2025.9.14` 【腾讯文档】Auto-Tutor教程：https://docs.qq.com/doc/DQU1oQ1phVmZxZEFZ ，这里面有免费的api key哦
 - `2025.9.5` 新增代理，支持科学上网，便于使用谷歌邮箱
 - `2025.9.4` 支持Gemini API接口
 
